@@ -14,7 +14,7 @@ const UseEffectApi = () => {
     }, [])
     return (
         <>
-            <h2>👉List of Github Users👈</h2>
+            <h2>👉Github Users👈</h2>
             <div className="container-fluid mt-5">
                 <div className="row text-center">
                     {
